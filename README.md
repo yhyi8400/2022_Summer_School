@@ -5,3 +5,5 @@
 ## 2022.06.29.(Wen.)
 Github 실습
 ### github에서 수정
+# githubEducation
+## Github Pull README.md modified
