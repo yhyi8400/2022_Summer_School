@@ -4,3 +4,5 @@ git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
     [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
     [--super-prefix=<path>] [--config-env=<name>=<envvar>]
     <command> [<args>]
+
+github upload
